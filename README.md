@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## A Small Intro
-I'm Prashanth and I'm currently in my final year of Computer Science, undergrad at VIT Vellore. I have a huge interest in the field of machine learning, "Deep learning" to be exact and have always been enthralled by the advances made in the field! I have worked on many projects involving deep learning over the past few years and am hoping to sharpen my skills more to work on more difficult projects!
+I'm Prashanth and I'm currently in my final year of Computer Science, undergrad at VIT Vellore. I have a huge interest in the field of machine learning, "Deep learning" to be precise and have always been enthralled by the advances made in the field! I have worked on many projects involving deep learning over the past few years and am hoping to burgeon my skills even further to work on more byzantine projects!
 
 All projects worked on are present in my repositories so feel free to take a look!
 
