@@ -22,8 +22,8 @@ All projects worked on are present in my repositories so feel free to take a loo
 
 ## Current Projects
 I’m currently working on a Speech Recognition model with neural networks using the Tensorflow and Keras libraries
-
+<!--
 I'm also currently working as a part-time Data Analyst for an E-Commerce website/company.
-
+-->
 ## Contact
 How to reach me: Feel free to email me at (prashanth.v1603@gmail.com)
