@@ -1,4 +1,4 @@
-### Greetings
+
 
 <!--
 **prashu316/prashu316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 CS Masters student, KU Leuven
 
-## Contact
-Feel free to email me at (prashanth.v1603@gmail.com)
+Contact: (prashanth.v1603@gmail.com)
