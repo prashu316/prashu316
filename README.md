@@ -14,11 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## A Small Intro
-I'm Prashanth and I'm currently in my first year of Masters in Computer Science at KU Leuven, Belgium. I have a huge interest in the field of machine learning, "Deep learning" to be precise and have always been enthralled by the advances made in the field! I have worked on many projects involving deep learning over the past few years and am hoping to burgeon my skills even further to work on more convoluted projects!
-
-All projects worked on are present in my repositories so feel free to take a look!
+CS Masters student, KU Leuven
 
 ## Contact
-How to reach me: Feel free to email me at (prashanth.v1603@gmail.com)
+Feel free to email me at (prashanth.v1603@gmail.com)
